@@ -1,6 +1,6 @@
 # My CodeWars Solutions
 
-Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.com/users/NahuelCastro)!
+Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.com/users/NahuelCastro)!
 
 ##### Important! : These solutions for education purpose only. Don't directly use them on Codewars katas. Create your own solutions to learn more.
 
