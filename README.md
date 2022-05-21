@@ -46,3 +46,9 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 |--|--|--|--|
 | [**Cost of my ride**](7kyuKatas/Cost_of_my_ride.md) | 1 | | [link](https://www.codewars.com/kata/586430a5b3a675296a000395) |
 | [**Return the first M multiples of N**](7kyuKatas/Return_the_first_M_multiples_of_N.md) | 1 | `math` | [link](https://www.codewars.com/kata/593c9175933500f33400003e) |
+| [**Check the exam**](7kyuKatas/Check_the_exam.md) | 1 | `str`, `array` | [link](https://www.codewars.com/kata/5a3dd29055519e23ec000074) |
+
+
+
+<br>
+
