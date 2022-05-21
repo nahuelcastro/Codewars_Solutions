@@ -46,9 +46,22 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 |--|--|--|--|
 | [**Cost of my ride**](7kyuKatas/Cost_of_my_ride.md) | 1 | | [link](https://www.codewars.com/kata/586430a5b3a675296a000395) |
 | [**Return the first M multiples of N**](7kyuKatas/Return_the_first_M_multiples_of_N.md) | 1 | `math` | [link](https://www.codewars.com/kata/593c9175933500f33400003e) |
-| [**Check the exam**](7kyuKatas/Check_the_exam.md) | 1 | `str`, `array` | [link](https://www.codewars.com/kata/5a3dd29055519e23ec000074) |
+| [**Check the exam**](7kyuKatas/Check_the_exam.md) | 2 | `str`, `array` | [link](https://www.codewars.com/kata/5a3dd29055519e23ec000074) |
 
 
 
 <br>
 
+---
+
+## 8kyu Katas
+
+<br>
+
+| Kata(s) | Solution(s) | Subject | CW Link |
+|--|--|--|--|
+| [**Area or Perimeter**](8kyuKatas/Area_or_Perimeter.md) | 1 | `math`,  | [link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) |
+| [**Polish alphabet**](8kyuKatas/APolish_alphabet.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/57ab2d6072292dbf7c000039) |
+| [**Array plus array**](8kyuKatas/Array_plus_array.md) | 1 | `int`, `array` | [link](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) |
+| [**How good are you really?**](8kyuKatas/How_good_are_you_really.md) | 1 | `str`, `vector` | [link](https://www.codewars.com/kata/5601409514fc93442500010b) |
+| [**Abbreviate a Two Word Name?**](8kyuKatas/Abbreviate_a_Two_Word_Name.md) | 1 | `str`, `format` | [link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) |

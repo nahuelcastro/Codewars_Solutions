@@ -27,7 +27,7 @@ def check_exam(arr1,arr2):
 
 ---
 
-### Solution
+### Solution - Python
 
 ```python
 def check_exam(arr1,arr2):
@@ -41,6 +41,34 @@ def check_exam(arr1,arr2):
         count = 0
     return count
 ```
+
+### Solution - TypeScript
+
+```typescript
+def check_exam(arr1,arr2):
+export function checkExam(respuestas: string[], alumno: string[]): number {
+    
+    let acumulador : number = 0;
+    
+    for (let i = 0; i < respuestas.length; i++) {     
+        if (respuestas[i] == alumno[i]){
+            acumulador = acumulador + 4;
+        }
+        else if (alumno[i] == "" || alumno[i] == " " ){
+            acumulador = acumulador + 0;
+        } else{
+            acumulador =  acumulador - 1;
+        }
+    }
+
+    if (acumulador < 0) {
+        acumulador = 0;
+    }
+
+    return acumulador;
+ }
+```
+
 
 
 ---
