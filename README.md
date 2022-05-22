@@ -21,6 +21,7 @@ Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
 | [**Strip Comments**](4kyuKatas/StripComments.md)  | 1 | `str`, `strip`, `format`  | [link](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) |
+| [**Permutations**](4kyuKatas/Permutations.md)  | 1 | `str`, `permutations` | [link](https://www.codewars.com/kata/5254ca2719453dcc0b00027d) |
 
 
 
