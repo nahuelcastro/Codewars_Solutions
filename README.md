@@ -8,6 +8,21 @@ Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.
 
 ---
 
+## 4kyu Katas
+
+
+<br>
+
+| Kata(s) | Solution(s) | Subject | CW Link |
+|--|--|--|--|
+| [**Strip Comments**](4kyuKatas/StripComments.md)  | 1 | `str`, `strip`, `format`  | [link](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) |
+
+
+
+<br>
+
+---
+
 ## 5kyu Katas
 
 
