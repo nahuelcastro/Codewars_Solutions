@@ -2,6 +2,11 @@
 
 Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.com/users/NahuelCastro)!
 
+
+![Codewars Rank](https://www.codewars.com/users/NahuelCastro/badges/large)
+
+<br>
+
 ##### Important! : These solutions for education purpose only. Don't directly use them on Codewars katas. Create your own solutions to learn more.
 
 <br>
