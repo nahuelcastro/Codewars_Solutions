@@ -38,6 +38,8 @@ Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.
 |--|--|--|--|
 | [**The Hashtag Generator**](5kyuKatas/The_Hashtag_Generator.md)  | 1 | `str`, `format` | [link](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/) |
 | [**ISBN-10 Validation**](5kyuKatas/ISBN-10_Validation.md)  | 1 | `str`, `array`  | [link](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001) |
+| [**Formula 1 Race**](5kyuKatas/Formula1Race.md)  | 1 | `str` | [link](https://www.codewars.com/kata/626d691649cb3c7acd63457b/) |
+
 
 <br>
 
