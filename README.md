@@ -2,7 +2,6 @@
 
 Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.com/users/NahuelCastro)!
 
-
 ![Codewars Rank](https://www.codewars.com/users/NahuelCastro/badges/large)
 
 <br>
@@ -15,7 +14,6 @@ Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.
 
 ## 4kyu Katas
 
-
 <br>
 
 | Kata(s)                                                                                 | Solution(s) | Subject                          | CW Link                                                        |
@@ -24,14 +22,11 @@ Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.
 | [**Most frequently used words in a text**](4kyuKatas/MostFrequentlyUsedWordsInAText.md) | 1           | `str`, `parse`, `filter`, `rank` | [link](https://www.codewars.com/kata/51e056fe544cf36c410000fb) |
 | [**Permutations**](4kyuKatas/Permutations.md)                                           | 1           | `str`, `permutations`            | [link](https://www.codewars.com/kata/5254ca2719453dcc0b00027d) |
 
-
-
 <br>
 
 ---
 
 ## 5kyu Katas
-
 
 <br>
 
@@ -42,14 +37,12 @@ Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.
 | [**Formula 1 Race**](5kyuKatas/Formula1Race.md)                       | 1           | `str`                                     | [link](https://www.codewars.com/kata/626d691649cb3c7acd63457b/) |
 | [**Base64 Numeric Translator**](5kyuKatas/Base64NumericTranslator.md) | 1           | `str`,`math`,`base64`                     | [link](https://www.codewars.com/kata/5632e12703e2037fa7000061)  |
 | [**Memoized Fibonacci**](5kyuKatas/MemoizedFibonacci.md)              | 1           | `memoized`, `dynamic programming`, `math` | [link](https://www.codewars.com/kata/529adbf7533b761c560004e5)  |
-
-
+| [**Simple Pig Latin**](5kyuKatas/SimplePigLatin.md)                   | 1           | `str`                                     | [link](https://www.codewars.com/kata/520b9d2ad5c005041100000f)  |
+| [**Moving Zeros To The End**](5kyuKatas/MovingZerosToTheEnd.md)       | 1           | `stable algorithm`,`array`                | [link](https://www.codewars.com/kata52597aa56021e91c93000cb0)   |
 
 <br>
 
-
 ---
-
 
 ## 6kyu Katas
 
@@ -68,14 +61,11 @@ Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.
 
 <br>
 
-
 | Kata(s)                                                                                 | Solution(s) | Subject        | CW Link                                                        |
 | --------------------------------------------------------------------------------------- | ----------- | -------------- | -------------------------------------------------------------- |
 | [**Cost of my ride**](7kyuKatas/Cost_of_my_ride.md)                                     | 1           |                | [link](https://www.codewars.com/kata/586430a5b3a675296a000395) |
 | [**Return the first M multiples of N**](7kyuKatas/Return_the_first_M_multiples_of_N.md) | 1           | `math`         | [link](https://www.codewars.com/kata/593c9175933500f33400003e) |
 | [**Check the exam**](7kyuKatas/Check_the_exam.md)                                       | 2           | `str`, `array` | [link](https://www.codewars.com/kata/5a3dd29055519e23ec000074) |
-
-
 
 <br>
 
