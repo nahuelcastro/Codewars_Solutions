@@ -53,6 +53,7 @@ Join [CodeWars](www.codewars.com/r/UTJA9w) and follow [me](https://www.codewars.
 | ------------------------------------------------------------------------------- | ----------- | ----------------------------------- | -------------------------------------------------------------- |
 | [**Caesar Ciphers (Dbftbs_Djqifs)**](6kyuKatas/Caesar_Ciphers-Dbftbs_Djqifs.md) | 1           | `str`, `encryption`, `cryptography` | [link](https://www.codewars.com/kata/546937989c0b6ab3c5000183) |
 | [**Create Phone Number**](6kyuKatas/Create_Phone_Number.md)                     | 1           | `str`, `format`, `array`            | [link](https://www.codewars.com/kata/525f50e3b73515a6db000b83) |
+| [**Cycle a list of values**](6kyuKatas/Cycle_a_list_of_values.md)                     | 1           | `array`, `Algorithms`            | [link](https://www.codewars.com/kata/5456812629ccbf311b000078) |
 
 <br>
 
